@@ -125,7 +125,7 @@ $('#yes').click(function() {
                 text: "Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàoooooo",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'https://www.facebook.com/hoangnguyen14122411/';
+                    window.location = 'https://www.facebook.com/huyhoang14082005/';
                   }
             })
         }
